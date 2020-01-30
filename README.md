@@ -2,9 +2,9 @@
 
 **Simple ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Frederic Triplett, Jr.**
+Submitted by: **Romario Brown**
 
-Time spent: **4** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -31,12 +31,13 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+Android studio gave errors building and finding dependencies 
+most errors were fixed by downloading additional packages.
 
-I had minor issues using the design tab of Android Studio. To avoid not having attributes on my RecyclerView and my objects not having the same attributes shown in the tutorial, I just edited the attributes via text in the ['activity_main.xml'](app/src/main/res/layout/activity_main.xml) and ['activity_edit.xml'](app/src/main/res/layout/activity_edit.xml) files. I also had problems share through git using the VCS menu.
 
 ## License
 
-    Copyright 2020 Github: @ftripjr 
+    Copyright 2020 Github: @rrbrown2
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
